@@ -1,5 +1,7 @@
 .border {
   border-style:dotted;
+  background-color:light-blue;
+  font-size:2.0vw;
 }
 
 .Banner-orange-chicken{
@@ -8,8 +10,30 @@
 
 p {
 	text-align:center;
+	size:100%;
 }
 
 .OrangeChickenSauce{
   width:30%;
+}
+
+ul {
+	font-size:calc(2.0vw + 15px);
+}
+
+.border-solid {
+  border-style:solid;
+}
+
+.blurred-kitchen-back {
+	background-image: url('blurred-kitchen.jpg');
+	background-repeat: repeat;
+	background-size:100.0vw;
+	background-attachment:fixed;
+}
+
+.border-dotted {
+  border-style:dotted;
+  background-color:light-blue;
+  font-size:2.0vw;
 }
