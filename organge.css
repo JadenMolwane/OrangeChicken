@@ -24,7 +24,7 @@ ul {
   border-style:solid;
 }
 
-.blurred-kitchen-back {
+#blurred-kitchen-back {
 	background-image: url('blurred-kitchen.jpg');
 	background-repeat: repeat;
 	background-size:100.0vw;
@@ -36,3 +36,12 @@ ul {
   background-color:LightGray;
   font-size:2.0vw;
 }
+
+
+#info1-background {
+	background-image: url('info1-background.jpg');
+	background-repeat: repeat;
+	background-size:100.0vw;
+	background-attachment:fixed;
+}
+
