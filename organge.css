@@ -50,3 +50,9 @@ ul {
   justify-content: center;
 }
 
+#OC-background {
+	background-image: url('chickens-orange.jpg');
+	background-repeat: repeat;
+	background-size:100.0vw;
+	background-attachment:fixed;
+}
