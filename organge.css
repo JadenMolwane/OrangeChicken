@@ -45,3 +45,8 @@ ul {
 	background-attachment:fixed;
 }
 
+.centered-image {
+  display: flex;
+  justify-content: center;
+}
+
