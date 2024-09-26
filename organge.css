@@ -56,3 +56,12 @@ ul {
 	background-size:100.0vw;
 	background-attachment:fixed;
 }
+
+#Centered-text-and-readable {
+	text-align:center;
+	border-top-style:solid;
+	border-right-styling:solid;
+	border-left-styling:solid;
+	border-bottom-style:none;
+	font-size:2.0vw;
+}
