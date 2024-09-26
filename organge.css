@@ -60,8 +60,8 @@ ul {
 #Centered-text-and-readable {
 	text-align:center;
 	border-top-style:solid;
-	border-right-styling:solid;
-	border-left-styling:solid;
+	border-right-style:solid;
+	border-left-style:solid;
 	border-bottom-style:none;
 	font-size:2.0vw;
 }
